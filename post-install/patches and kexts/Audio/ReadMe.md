@@ -1,0 +1,3 @@
+- install ```VoodooHDA.kext``` with any kext installer
+- either delete/move ```AppleHDA.kext``` from /S/L/E or install ```AppleHDADisabler.kext``` with any kext installer
+- install ```VoodooHDA.prefPane```
