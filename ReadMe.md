@@ -1,5 +1,6 @@
-<p align="center">
+<p align="left">
   <img src="assets/g6_hs.png">
+  <img width=500 height=300 src="assets/screenshot.png">
 </p>
 
 These are the files of my working hackintosh laptop.
